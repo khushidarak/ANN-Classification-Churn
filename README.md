@@ -84,3 +84,29 @@ streamlit run app.py
 https://ann-classification-churn-4xfnfh5pifcxi54pdql6t5.streamlit.app/
 
 https://github.com/khushidarak/ANN-Classification-Churn
+
+
+
+1. Dataset
+        ↓
+2. Data Preprocessing
+        ↓
+3. Train-Test Split
+        ↓
+4. Feature Scaling
+        ↓
+5. Build ANN Model
+        ↓
+6. Train the Model
+        ↓
+7. Save the Model & Preprocessing Objects
+        ↓
+8. Deploy with Streamlit
+        ↓
+9. User Enters Customer Details
+        ↓
+10. Preprocess User Input
+        ↓
+11. Predict Churn Probability
+        ↓
+12. Display Result
